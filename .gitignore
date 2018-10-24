@@ -2,3 +2,4 @@
 sites/*
 cache*
 NOUPDATE.txt
+.DS_Store
